@@ -12,7 +12,7 @@ nav ul, footer ul {
     list-style: none;
     font-weight: bold;
     font-family: 'Emilys Candy', cursive;
-    font-size:30px;
+    
 }
 nav ul li, footer ul li {
     display: inline;
