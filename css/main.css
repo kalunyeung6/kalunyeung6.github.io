@@ -4,6 +4,7 @@ body {
      background: url("https://images7.alphacoders.com/439/thumb-1920-439762.jpg") no-repeat top center;
     background-size: cover;
     background-attachment:fixed;
+    font-family: 'Spirax', cursive;
 }
 nav ul, footer ul {
     font-family:'Helvetica', 'Arial', 'Sans-Serif';
